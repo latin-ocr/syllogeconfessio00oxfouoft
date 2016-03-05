@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./syllogeconfessio00oxfouoft_0377.png"; bbox 0 0 2418 4172; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 604 1404 1496 1486">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 604 1404 1496 1486">
+     <span class='ocr_line' id='line_1_1' title="bbox 604 1404 1496 1486; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 604 1404 1496 1486; x_wconf 84' lang='lat' dir='ltr'>CATECHESIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 338 1638 1775 1713">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 338 1638 1775 1713">
+     <span class='ocr_line' id='line_1_2' title="bbox 338 1638 1775 1713; baseline 0.001 -12"><span class='ocrx_word' id='word_1_2' title='bbox 338 1638 995 1702; x_wconf 83' lang='lat' dir='ltr'>RELIGIONIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1060 1638 1775 1713; x_wconf 84' lang='lat' dir='ltr'><strong>CHRISTIANAE,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 858 1853 1259 1891">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 858 1853 1259 1891">
+     <span class='ocr_line' id='line_1_3' title="bbox 858 1853 1259 1891; baseline 0 -5"><span class='ocrx_word' id='word_1_4' title='bbox 858 1854 971 1891; x_wconf 70' lang='grc'>008</span> <span class='ocrx_word' id='word_1_5' title='bbox 996 1853 1259 1887; x_wconf 67' lang='lat' dir='ltr'><strong>&#39;numum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 459 2032 1671 2088">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 459 2032 1671 2088">
+     <span class='ocr_line' id='line_1_4' title="bbox 459 2032 1671 2088; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 459 2033 552 2086; x_wconf 89' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_7' title='bbox 606 2032 1075 2086; x_wconf 87' lang='lat' dir='ltr'>ECCLESIIS</span> <span class='ocrx_word' id='word_1_8' title='bbox 1129 2032 1246 2085; x_wconf 89' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_9' title='bbox 1302 2033 1671 2088; x_wconf 92' lang='lat' dir='ltr'>SCHOLIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 683 2232 1456 2304">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 683 2232 1456 2304">
+     <span class='ocr_line' id='line_1_5' title="bbox 683 2232 1456 2304; baseline 0.001 -2"><span class='ocrx_word' id='word_1_10' title='bbox 683 2232 1456 2304; x_wconf 88' lang='lat' dir='ltr'><strong>PALATINATUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 983 2427 1162 2489">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 983 2427 1162 2489">
+     <span class='ocr_line' id='line_1_6' title="bbox 983 2427 1162 2489; baseline -0.006 -1"><span class='ocrx_word' id='word_1_11' title='bbox 983 2427 1162 2489; x_wconf 83' lang='lat'>1563.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
